@@ -1,4 +1,4 @@
-# Tech Jobs Persistent
+# Tech Jobs
 
 This application is an evolution of previous Tech Jobs iterations whereby persistent storage is implemented into the application via
 a MySQL DBMS, Spring Boot, and Hibernate ORM (hence Tech Jobs "Persistent"). The previous iteration [Tech Jobs MVC](https://github.com/theodoremoreland/TechJobsMVC),
